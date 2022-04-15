@@ -1,2 +1,9 @@
 Thai
+<<<<<<< HEAD
 manh
+=======
+MinhBC
+Huy
+Giáp
+>>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
+mahaskjdashdjkll
