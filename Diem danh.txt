@@ -1,5 +1,10 @@
 Thai
 manh
+<<<<<<< HEAD
+TOAN LA LOI :V
+
+hết lỗi chua
+=======
 
 
 Sao a Thai xoa diem danh cua em :V
@@ -7,6 +12,4 @@ hazz
 Thanh chiu r
 na
 
-
-aaa
-Thanh
+Diem danh toan xit
