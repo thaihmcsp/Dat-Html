@@ -5,13 +5,7 @@ ab
 minhBCLan2
 MinhBC
 Huy
-<<<<<<< HEAD
 Gi p
-=======
-Giáp
-<<<<<<< HEAD
->>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
->>>>>>> 382f73a5f2fa5a54d97f19ac017d8962d838a93e
 mahaskjdashdjkll
 dat
 jkhdsghdhj
@@ -20,15 +14,7 @@ bb
 giap
 thanh
 <<<<<<< HEAD
-<<<<<<< HEAD
 thanh vao mai khong duoc
-=======
-thanh vao duoc chua
-=======
-<<<<<<< HEAD
-thanh vao duoc chua
-=======
->>>>>>> 382f73a5f2fa5a54d97f19ac017d8962d838a93e
 =======
 
 aaaa
@@ -66,15 +52,5 @@ hazz
 >>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
 Thanh chiu r
 na
-<<<<<<< HEAD
 anh thanh cung chiu
-=======
-=======
->>>>>>> 40a0e58d09ed664cf0753c500c08751f51505e06
->>>>>>> 5d55876e691fad2c5e99707f76a424a2086eccdc
-
-
-aaa
->>>>>>> 1cfb77b36bfbd14703e7386db2c17ea66f4af2ca
->>>>>>> 382f73a5f2fa5a54d97f19ac017d8962d838a93e
-anh thanh cung chiu r
+anh thanh cung chiu
