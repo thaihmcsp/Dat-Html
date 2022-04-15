@@ -13,6 +13,9 @@ ab
 bb
 giap
 thanh
+<<<<<<< HEAD
+thanh vao mai khong duoc
+=======
 
 aaaa
 <<<<<<< HEAD
@@ -44,4 +47,8 @@ aaaa
 
 Sao a Thai xoa diem danh cua em :V
 >>>>>>> cce731691acbcbc182e8ac78c7a493a4eb95e349
+<<<<<<< HEAD
 hazz
+=======
+>>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
+Thanh chiu r
