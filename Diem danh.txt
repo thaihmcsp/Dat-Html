@@ -12,13 +12,5 @@ mahaskjdashdjkll
 dat
 >>>>>>> dd4e92ac1831cedd088275cfb8918281a0d45efe
 jkhdsghdhj
-<<<<<<< HEAD
 ab
-=======
-
-Dung thu 100 chua duoc
-<<<<<<< HEAD
->>>>>>> a53dd319d97e2a3d40739de51c2689e1cd2283ae
-=======
-hizz
->>>>>>> c3bac178dc8cc5d7320f414014ef087d4987ad6d
+bb
