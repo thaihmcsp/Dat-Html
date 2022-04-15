@@ -4,14 +4,60 @@ manh
 =======
 MinhBC
 Huy
+<<<<<<< HEAD
 Giáp
 <<<<<<< HEAD
 >>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
+=======
+<<<<<<< HEAD
+Giï¿½p
+dat
+thanht
+dat
+jkhdsghdhj
+ab
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> e482a6b818c5f8cff73be7f81b48a98ce127d12b
+
+Dung thu 100 chua duoc
+
+
+
+
+
+hizz
+<<<<<<< HEAD
+
+=======
+>>>>>>> c3bac178dc8cc5d7320f414014ef087d4987ad6d
+name
+=======
+bb
+>>>>>>> 91c07ce7e7ea169047453be4fe6b0fc4aa3b10ca
+aa
+>>>>>>> e482a6b818c5f8cff73be7f81b48a98ce127d12b
+=======
+trung thanh
+Gi p
+dat
+thÃ nh
+Gi p
+>>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
 mahaskjdashdjkll
 =======
 dat
 >>>>>>> dd4e92ac1831cedd088275cfb8918281a0d45efe
 jkhdsghdhj
 ab
+<<<<<<< HEAD
 bb
 giap
+=======
+
+aaaa
+>>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
+>>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
