@@ -1,29 +1,20 @@
 Thai
-<<<<<<< HEAD
 manh
-=======
+jkhdsghdhj
+ab
+minhBCLan2
 MinhBC
 Huy
-<<<<<<< HEAD
-Giáp
-<<<<<<< HEAD
->>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
-=======
 Gi p
->>>>>>> 40a0e58d09ed664cf0753c500c08751f51505e06
 mahaskjdashdjkll
-=======
 dat
->>>>>>> dd4e92ac1831cedd088275cfb8918281a0d45efe
 jkhdsghdhj
 ab
 bb
 giap
 thanh
-thanh vao mai khong duoc
 <<<<<<< HEAD
-thanh vao duoc chua
-=======
+thanh vao mai khong duoc
 =======
 
 aaaa
@@ -35,7 +26,6 @@ dat
 >>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
 >>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
 =======
-
 Sao a Thai xoa diem danh cua em :V
 =======
 >>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
@@ -61,11 +51,5 @@ hazz
 =======
 >>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
 Thanh chiu r
-<<<<<<< HEAD
 na
-=======
->>>>>>> 40a0e58d09ed664cf0753c500c08751f51505e06
->>>>>>> 5d55876e691fad2c5e99707f76a424a2086eccdc
-
-
-aaa
+anh thanh cung chiu
