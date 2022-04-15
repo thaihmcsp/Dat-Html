@@ -1,0 +1,237 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.tong{
+     height: 100vh;
+     background-size: cover;
+     background-position: center;
+     width: 100%;
+     position: relative;
+     background-image:linear-gradient(to bottom, rgba(31,33,47,0.5),rgba(31,33,47,0.5)), url(./42.jpg)
+}
+.navbar{
+    width: 100%;
+    padding: 20px 16px;
+    position: fixed;
+    top: 0;
+}
+.main-navbar{
+
+    margin: 0 143px;
+    padding: 12px 24px;
+}
+.navbar-brand svg{
+    color: white;
+    width: 5.14063rem;
+}
+.navbar-brand{
+    margin-right: 16px;
+}
+.navbar-icon1 a{
+    color: white;
+}
+.main-navbar{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+}
+.navbar-icon{
+    display: flex;
+}
+.navbar-icon{
+    display: flex ;
+}
+.navbar-icon1{
+    display: flex;
+    margin-right: 59px;
+    text-align: center;
+    list-style: none;
+    padding: 10px;
+}
+.navbar-icon1 li{
+  padding: 0 16px;
+}
+.navbar-icon1 li a:focus
+{
+   color: orange;
+}
+.navbar-icon2{
+    display: flex;
+    list-style: none;
+    margin-left: 130px;
+    padding: 10px;
+}
+.navbar-icon1 a{
+    padding: 16px;
+}
+.line{
+    width: 1px;
+    height: 15px;
+    color: white;
+    display: inline-block;
+    background-color: #ccc;
+}
+.navbar-icon2 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0 16px;
+}
+.navbar-icon2-menu12 {
+    padding: 0 30px;
+    position: relative;
+}
+.WELCOME{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 200px;
+    top: 100%;
+    display: none;
+    left: 0;
+}
+.WELCOME a{
+    display: block;
+   color: black;
+   padding: 20px 30px;
+}
+.navbar-icon2-menu12 .WELCOME1:focus ~ .WELCOME{
+    display: block;
+    color: orange;
+}
+.WELCOME1:focus{
+    color: orange;
+}
+.navbar-icon2 span{
+    width: 1px;
+    height: 15px;
+    display: inline-block;
+    background-color: #ccc;
+}
+.menu-cap2{
+    background-color: aqua;
+    position: absolute;
+    right: -80%;
+    display: flex;
+    flex-direction: column;
+    display: none;
+
+}
+.navbar-icon2-menu12 .WELCOME:focus ~ .menu-cap2{
+    color: orange;
+    display: block;
+}
+.main-tong{
+    position: absolute;
+    display: block;
+    top: 40%;
+    right: 30%;
+}
+.main-tong-text{
+    text-align: center;
+}
+.main-tong-text p{
+    margin-bottom: 16px;
+    color: white;
+    font-size: 20px;
+    opacity: 0.7;
+}
+.main-tong-text h1{
+    margin-bottom: 24px;
+    color: white;
+}
+.main-tong-text button{
+    padding: 18px;
+    font-size: 20px;
+    background: none;
+    border: 2px solid orange;
+}
+.main-tong-text a{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+.center{
+    position: relative;
+    width: 100%;
+}
+.center-header{
+    width: 100%;
+    padding: 120px 0;
+}
+.center-header__main{
+    margin: 0 160px;
+}
+.center-header__main-text{
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.center-header__main-text h2{
+    padding-bottom: 30px;
+}
+.center-header__main-img{
+    width: 100%;
+}
+.center-header__main-img1 {
+    padding: 0 24px;
+    width: 33.33%;
+}
+.center-header__main-img1 img{
+    width: 100%;
+    transition: 0.3s;
+}
+.center-header__main-img1 a{
+    color: black;
+    text-decoration: none;
+}
+.center-header__main-img1 img:hover{
+    transform: translatey(-4px);
+    box-shadow: 0 1rem 2rem -1rem rgb(0 0 0 / 75%);
+
+}
+.line1{
+    height: 120px;
+    border-left: 2px solid orange;
+    text-align: center;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+}
+.center-header__main1{
+    margin: 0 160px;
+}
+.center-headerconti{
+    padding: 120px 0;
+}
+.center-headerconti-main{
+    padding: 0 24px;
+    margin: 0 160px;
+}
+.center-headerconti-main__text{
+    text-align: center;
+}
+.center-headerconti-main__text h1{
+    padding-bottom: 30px;
+}
+.center-headerconti-main__text p{
+    padding-bottom: 30px;
+}
+.center-headertext{
+    padding: 120px 0;
+}
+.center-headertext-main{
+    display: block;
+    margin: 0 160px;
+    padding: 0 24px;
+    text-align: center;
+}
+.center-headertext-main i{
+    font-size: 50px;
+    left: 25%;
+}
+.center-headertext-main h4{
+    text-decoration: wavy underline orange;
+}
