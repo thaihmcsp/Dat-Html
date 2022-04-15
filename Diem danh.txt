@@ -1,26 +1,21 @@
 Thai
-<<<<<<< HEAD
 manh
-=======
+jkhdsghdhj
+ab
+minhBCLan2
 MinhBC
 Huy
-Giáp
-<<<<<<< HEAD
->>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
+Gi p
 mahaskjdashdjkll
-=======
 dat
->>>>>>> dd4e92ac1831cedd088275cfb8918281a0d45efe
 jkhdsghdhj
 ab
 bb
 giap
-<<<<<<< HEAD
 thanh
-=======
-=======
 
 aaaa
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 dat
@@ -40,3 +35,13 @@ name
 =======
 >>>>>>> 30afa285023084356dedfad2c6081e631fc2b771
 tran dat
+=======
+bb
+giap
+
+aaaa
+
+
+Sao a Thai xoa diem danh cua em :V
+>>>>>>> cce731691acbcbc182e8ac78c7a493a4eb95e349
+hazz
