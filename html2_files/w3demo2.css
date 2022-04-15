@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, sans-serif;
+}
+.container {
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: white;
+  letter-spacing: 5px;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  top: 0;
+}
+.menu a {
+  text-decoration: none;
+  color: black;
+  padding: 8px;
+}
+.menu a:hover {
+  background-color: #ccc;
+}
+.barner {
+  position: relative;
+  letter-spacing: 5px;
+}
+.barner p {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  font-size: 40px;
+}
+.content {
+  max-width: 1100px;
+  margin: auto;
+}
+.content1,
+.content2 {
+  display: flex;
+  justify-content: center;
+  padding: 64px 0px;
+  width: 100%;
+}
+.content1 img {
+  width: 100%;
+}
+.content1left {
+  width: 49%;
+}
+.content1text {
+  width: 50%;
+  margin-left: 50px;
+  letter-spacing: 0px;
+}
+.content1text h2 {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.content1text p {
+  margin-top: 15px;
+  font-size: 18px;
+}
+.text2 {
+  color: #757575;
+}
+hr {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 20px 0;
+}
+.content2left {
+  padding: 12px 24px;
+  width: 49%;
+  letter-spacing: 5px;
+}
+.contentright {
+  padding: 12px 24px;
+  width: 49%;
+}
+.content2left h2 {
+  font-size: 36px;
+  margin: 10px 0;
+}
+.content2text1 {
+  margin: 10px 0;
+  font-size: 20px;
+  font-weight: 400;
+}
+.content2text2 {
+  margin: 15px 0;
+  font-size: 15px;
+  color: #757575;
+  letter-spacing: 0;
+  line-height: 3.5;
+}
+.content3 {
+  padding: 64px 16px;
+}
+.content3 p {
+  margin: 15px 0;
+  font-size: 15px;
+}
+.content3 b {
+  color: #607d8b;
+}
+.content3 form p {
+  padding: 16px 8px;
+  margin: 0;
+  border-bottom: 1px solid rgb(204, 204, 204);
+}
+.content3 form input {
+  border: none;
+  width: 100%;
+  padding: 16px;
+}
+.submit {
+  display: flex;
+  justify-content: left;
+  padding: 8px 16px;
+  margin: 16px 0;
+}
+button {
+  border: none;
+  padding: 8px 16px;
+  margin: 16px 0;
+  background-color: rgb(241, 241, 241);
+}
+.nut1 :hover {
+  background-color: #000;
+}
