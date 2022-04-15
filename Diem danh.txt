@@ -15,17 +15,5 @@ jkhdsghdhj
 ab
 bb
 giap
-<<<<<<< HEAD
 thanh
-=======
-=======
-
-aaaa
-<<<<<<< HEAD
-
-Sao a Thai xoa diem danh cua em :V
-=======
->>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
->>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
->>>>>>> 505bcf59a6ea6d9a771b276996889ea5dfdfaa9a
->>>>>>> 53a3c50cdbd31426a5854aeef0514951642318e4
+thanh vao mai khong duoc
