@@ -2,14 +2,48 @@ Thai
 manh
 MinhBC
 Huy
-trung thanh
+<<<<<<< HEAD
 Gi�p
 dat
+thanht
+dat
+jkhdsghdhj
+ab
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> e482a6b818c5f8cff73be7f81b48a98ce127d12b
+
+Dung thu 100 chua duoc
+
+
+
+
+
+hizz
+<<<<<<< HEAD
+
+=======
+>>>>>>> c3bac178dc8cc5d7320f414014ef087d4987ad6d
+name
+=======
+bb
+>>>>>>> 91c07ce7e7ea169047453be4fe6b0fc4aa3b10ca
+aa
+>>>>>>> e482a6b818c5f8cff73be7f81b48a98ce127d12b
+=======
+trung thanh
+Gi p
+dat
 thành
-Gi�p
+Gi p
 mahaskjdashdjkll
 dat
 jkhdsghdhj
 ab
 minhBCLan2
 
+aaaa
+>>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
