@@ -1,7 +1,14 @@
 Thai
+<<<<<<< HEAD
 manh
+=======
 MinhBC
 Huy
+<<<<<<< HEAD
+Giáp
+<<<<<<< HEAD
+>>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
+=======
 <<<<<<< HEAD
 Giï¿½p
 dat
@@ -39,14 +46,31 @@ Gi p
 dat
 thÃ nh
 Gi p
+>>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
 mahaskjdashdjkll
+=======
 dat
+>>>>>>> dd4e92ac1831cedd088275cfb8918281a0d45efe
 jkhdsghdhj
 ab
+<<<<<<< HEAD
+bb
+giap
+=======
 
 aaaa
+<<<<<<< HEAD
 <<<<<<< HEAD
 dat
 =======
 >>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
 >>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
+=======
+
+Sao a Thai xoa diem danh cua em :V
+=======
+>>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
+>>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
+>>>>>>> 505bcf59a6ea6d9a771b276996889ea5dfdfaa9a
+>>>>>>> 53a3c50cdbd31426a5854aeef0514951642318e4
+name
