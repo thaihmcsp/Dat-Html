@@ -1,14 +1,19 @@
 Thai
+<<<<<<< HEAD
 manh
 MinhBC
 Huy
-trung thanh
-Gi�p
-dat
-thành
 Gi�p
 mahaskjdashdjkll
 dat
 jkhdsghdhj
 ab
 thanh
+bb
+giap
+thanh
+
+aaaa
+<<<<<<< HEAD
+
+Sao a Thai xoa diem danh cua em :V
