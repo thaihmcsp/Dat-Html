@@ -1,5 +1,4 @@
 Thai
-<<<<<<< HEAD
 manh
 MinhBC
 Huy
@@ -12,8 +11,7 @@ thanh
 bb
 giap
 thanh
-
+thanh 2
 aaaa
-<<<<<<< HEAD
 
 Sao a Thai xoa diem danh cua em :V
