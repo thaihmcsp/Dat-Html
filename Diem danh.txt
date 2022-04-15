@@ -1,4 +1,5 @@
 Thai
+<<<<<<< HEAD
 
 manh
 
@@ -7,6 +8,16 @@ Huy
 Gi�p
 dat
 thanht
+=======
+manh
+jkhdsghdhj
+ab
+minhBCLan2
+MinhBC
+Huy
+Gi�p
+mahaskjdashdjkll
+>>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
 dat
 jkhdsghdhj
 ab
@@ -18,6 +29,7 @@ hizz
 name
 
 bb
+<<<<<<< HEAD
 
 aa
 
@@ -36,6 +48,20 @@ ab
 
 aaaa
 tienthanh
+=======
+giap
+thanh
+<<<<<<< HEAD
+thanh vao mai khong duoc
+=======
+
+aaaa
+bb
+giap
+
+aaaa
+
+>>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
 
 bb
 giap
@@ -45,6 +71,11 @@ thanh
 
 aaaa
 Sao a Thai xoa diem danh cua em :V
+<<<<<<< HEAD
 
 
 tienthanht
+=======
+>>>>>>> cce731691acbcbc182e8ac78c7a493a4eb95e349
+>>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
+dmgiap
