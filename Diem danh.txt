@@ -5,5 +5,10 @@ manh
 MinhBC
 Huy
 Giáp
+<<<<<<< HEAD
 >>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
 mahaskjdashdjkll
+=======
+dat
+>>>>>>> dd4e92ac1831cedd088275cfb8918281a0d45efe
+jkhdsghdhj
