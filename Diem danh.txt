@@ -4,13 +4,9 @@ manh
 =======
 MinhBC
 Huy
-<<<<<<< HEAD
 Giáp
 <<<<<<< HEAD
 >>>>>>> 3be801ac05edd13dfeb871d95e9e92cd37718622
-=======
-Gi p
->>>>>>> 40a0e58d09ed664cf0753c500c08751f51505e06
 mahaskjdashdjkll
 =======
 dat
@@ -21,44 +17,4 @@ bb
 giap
 thanh
 thanh vao mai khong duoc
-<<<<<<< HEAD
 thanh vao duoc chua
-=======
-=======
-
-aaaa
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-dat
-=======
->>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
->>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
-=======
-
-Sao a Thai xoa diem danh cua em :V
-=======
->>>>>>> 66c1dc05f95817d3a9b48a0424c7b71a4ea3e4db
->>>>>>> c70691b2bee464cfde8f8950c9116032c7c3307a
->>>>>>> 505bcf59a6ea6d9a771b276996889ea5dfdfaa9a
->>>>>>> 53a3c50cdbd31426a5854aeef0514951642318e4
-<<<<<<< HEAD
-name
-=======
->>>>>>> 30afa285023084356dedfad2c6081e631fc2b771
-tran dat
-=======
-bb
-giap
-
-aaaa
-
-
-Sao a Thai xoa diem danh cua em :V
->>>>>>> cce731691acbcbc182e8ac78c7a493a4eb95e349
-<<<<<<< HEAD
-hazz
-=======
->>>>>>> 1e9ba55d1f94e64026a5fc7fbd16994daf11377a
-Thanh chiu r
->>>>>>> 40a0e58d09ed664cf0753c500c08751f51505e06
